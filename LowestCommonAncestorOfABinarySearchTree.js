@@ -29,4 +29,5 @@
           }
       }
       aux(root)
+      return ancestor
   };

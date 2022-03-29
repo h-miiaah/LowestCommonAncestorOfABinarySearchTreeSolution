@@ -17,6 +17,8 @@
     const high = Math.max(p.val, q.val)
     let ancestor = null
     const aux = (node) => {
-        
+        if (!node) {
+            
+          }
       }
   };

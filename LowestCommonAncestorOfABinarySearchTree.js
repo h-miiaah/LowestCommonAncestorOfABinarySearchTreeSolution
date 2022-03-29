@@ -18,7 +18,7 @@
     let ancestor = null
     const aux = (node) => {
         if (!node) {
-            
+            return
           }
       }
   };

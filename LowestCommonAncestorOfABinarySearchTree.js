@@ -24,6 +24,8 @@
             ancestor = node
           } else if (node.val <= low) {
             aux(node.right)
+          } else {
+            
           }
       }
   };

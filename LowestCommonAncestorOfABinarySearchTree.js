@@ -23,7 +23,7 @@
         if (node.val >= low && node.val <= high) {
             ancestor = node
           } else if (node.val <= low) {
-            
+            aux(node.right)
           }
       }
   };

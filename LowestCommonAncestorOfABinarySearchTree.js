@@ -16,4 +16,7 @@
     const low = Math.min(p.val, q.val)
     const high = Math.max(p.val, q.val)
     let ancestor = null
+    const aux = (node) => {
+        
+      }
   };

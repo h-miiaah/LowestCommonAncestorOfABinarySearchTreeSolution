@@ -13,5 +13,5 @@
  * @return {TreeNode}
  */
  var lowestCommonAncestor = function(root, p, q) {
-    
+    const low = Math.min(p.val, q.val)
   };

@@ -21,7 +21,7 @@
             return
           }
         if (node.val >= low && node.val <= high) {
-            
+            ancestor = node
           }
       }
   };

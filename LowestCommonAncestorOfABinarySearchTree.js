@@ -25,7 +25,7 @@
           } else if (node.val <= low) {
             aux(node.right)
           } else {
-            
+            aux(node.left)
           }
       }
   };

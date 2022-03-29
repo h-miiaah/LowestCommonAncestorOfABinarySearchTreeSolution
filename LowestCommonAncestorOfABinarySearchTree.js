@@ -28,4 +28,5 @@
             aux(node.left)
           }
       }
+      aux(root)
   };

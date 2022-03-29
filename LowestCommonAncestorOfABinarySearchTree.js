@@ -34,5 +34,7 @@
 
   /**
    * First find the lowest common ancestor of p and q.
+   * We then check if the lowest common ancestor is p or q.
+   * If it’s p or q, we return the node.
    * 
    */

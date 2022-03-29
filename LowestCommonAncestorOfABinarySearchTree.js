@@ -33,5 +33,6 @@
   };
 
   /**
+   * First find the lowest common ancestor of p and q.
    * 
    */
